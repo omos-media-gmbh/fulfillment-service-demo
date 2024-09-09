@@ -1,0 +1,23 @@
+{
+  "fulfillment":{
+    "line_items_by_fulfillment_order":[
+      {
+        "fulfillment_order_id":"5859341008918",
+        "fulfillment_order_line_items":[
+          {
+            "id":"12675478814742",
+            "quantity":"3"
+          }
+        ]
+      }
+    ],
+    "tracking_info":{
+      "number":"1234",
+      "url":"www.usps.com",
+      "company":"Fake Company"
+    },
+    "notify_customer":false,
+    "origin_address": null,
+    "message":"test message"
+  }
+}
